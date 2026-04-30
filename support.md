@@ -12,6 +12,16 @@ We aim to respond within a few business days.
 
 Tidey Remote is the iPhone companion for **Tidey**, a developer-friendly terminal app for macOS.
 
+## Get Tidey for Mac
+
+Install Tidey on your Mac before pairing Tidey Remote:
+
+- [Download Tidey for Mac](https://tim-feng.github.io/Tidey/)
+
+After installing Tidey, open **Settings → Remote** on the Mac app to show the pairing QR code.
+
+## Requirements
+
 To use Tidey Remote you need:
 
 1. A Mac running macOS Sonoma or later.
